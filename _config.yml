@@ -1,8 +1,7 @@
-title: gnowxilef.github.io
-description: 
+title: github page
+description: my github page
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-tactile
-
 gems:
   - jekyll-mentions
