@@ -1,5 +1,7 @@
 ### Welcome to my GitHub Page
 
-[github](https://github.com/fawaf)
+current username: fawaf
+
 fka gnowxilef
+
 aka waf
