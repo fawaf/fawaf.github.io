@@ -8,6 +8,8 @@ on:
     paths:
       - 'index.md'
       - 'stylesheets/**'
+      - '_config.yml'
+      - '_config.yaml'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
