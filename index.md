@@ -1,7 +1,9 @@
-### Welcome to my GitHub Page
+# Welcome to my GitHub Page
 
-current username: fawaf
+## who am i
+Felix Wong
 
-fka gnowxilef
+known as waf
 
-aka waf
+### past usernames on github
+gnowxilef
